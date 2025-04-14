@@ -60,4 +60,5 @@ Both metrics are calculated over 10 validation images from the Flickr2K dataset.
 ---
 
 
-![Screenshot 2025-04-14 011213](https://github.com/user-attachments/assets/e77e65a0-9226-4227-8217-2f9d50ac72e0)
+![Screenshot 2025-04-14 011213](https://github.com/GokulRvu/IML_Final_Project/raw/main/Swinir_image.png)
+
