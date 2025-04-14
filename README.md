@@ -2,7 +2,8 @@
 
 # 🔍 Real-ESRGAN Super Resolution on Flickr2K Dataset
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo-name>/blob/main/real_esrgan_div2k.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GokulRvu/IML_Final_Project/blob/main/Real_ESR_GAN_Flickr2K.ipynb)
+
 
 This project demonstrates a simplified version of the **Real-ESRGAN** model for **image super-resolution** using the **DIV2K dataset**. It includes model training, evaluation, and visualization — all done using PyTorch and runnable in Google Colab.
 
@@ -25,7 +26,7 @@ This project is designed to run on **Google Colab**.
 
 ### Step 1: Open in Colab
 Click the badge above or use this link to run it:  
-📎 https://colab.research.google.com/github/srushtidayanand/Real_Esrgan_Div2K/blob/main/real_esrgan_div2k.ipynb
+📎 https://colab.research.google.com/github/GokulRvu/IML_Final_Project/blob/main/Real_ESR_GAN_Flickr2K.ipynb
 
 ### Step 2: Run All Cells
 - The dataset will be downloaded automatically.
@@ -51,10 +52,10 @@ We use:
 - **PSNR (Peak Signal-to-Noise Ratio)** to measure image fidelity.
 - **SSIM (Structural Similarity Index)** to measure perceptual quality.
 
-- PSNR: 22.75 dB
-SSIM: 0.6859
+- PSNR: 24.74 dB
+SSIM: 0.7146
 
-Both metrics are calculated over 10 validation images from the DIV2K dataset.
+Both metrics are calculated over 10 validation images from the Flickr2K dataset.
 
 ---
 
